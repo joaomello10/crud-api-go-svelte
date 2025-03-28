@@ -20,7 +20,7 @@
 Linux and macOS:
 
 ```
-git clone
+git clone https://github.com/joaomello10/crud-api-go-svelte.git
 ```
 
 ## ☕ Using App
