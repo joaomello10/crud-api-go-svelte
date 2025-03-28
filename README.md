@@ -10,7 +10,7 @@
 ## Front-end to my <a href="https://github.com/joaomello10/crud-api-go" target="_blank">crud-api-go</a>
 ``You need to install it to use this application``
 
-<img src="image.png" alt="Example image">
+<img src="./static/gif.gif" alt="Example image">
 
 ## 🚀 Installing
 
